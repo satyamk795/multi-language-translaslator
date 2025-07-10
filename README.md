@@ -8,6 +8,8 @@ A state-of-the-art multilingual translator using transformer models for accurate
 - **Fast Inference**: <1s response time on CPU
 - **Privacy Options**: Local or cloud processing modes
 
+## Results
+
 ![Demo Screenshot 1](/screenshots/1.png)
 ![Demo Screenshot 2](/screenshots/2.png)
 ![Demo Screenshot 3](/screenshots/3.png)
